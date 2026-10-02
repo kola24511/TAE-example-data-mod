@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "loot": [
+    {
+      "table": "base:test-mob-loot",
+      "item": "example.crystal:blue_crystal",
+      "chance": 0.25,
+      "minAmount": 1,
+      "maxAmount": 3,
+      "rarity": "uncommon"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "id": "example.crystal",
+  "name": "Example Data Mod",
+  "description": "Example data mod: a crystal and its test-mob drop rule.",
+  "authors": ["Example Author"],
+  "website": "",
+  "source": "",
+  "icon": "Icons/crystal.png",
+  "version": "1.0.0",
+  "apiVersion": 1,
+  "side": "both",
+  "dependencies": [],
+  "defaultLanguage": "en",
+  "content": {
+    "items": ["Data/items.json"],
+    "loot": ["Data/loot.json"]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "items": [
+    {
+      "id": "blue_crystal",
+      "name": "Blue crystal",
+      "description": "A blue crystal added by a data mod. Drops from the test mob with a 25% chance, 1–3 at a time.",
+      "icon": "Icons/crystal.png",
+      "maxStack": 99,
+      "weight": 1
+    }
+  ]
+}

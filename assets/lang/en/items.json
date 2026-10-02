@@ -1,0 +1,6 @@
+{
+  "mod.name": "Example Data Mod",
+  "mod.description": "Example data mod: a crystal and its test-mob drop rule.",
+  "item.blue_crystal.name": "Blue crystal",
+  "item.blue_crystal.description": "A blue crystal added by a data mod. Drops from the test mob with a 25% chance, 1–3 at a time."
+}
